@@ -1,2 +1,3 @@
 # The Future
 
+Simulation technologies will play an increasingly important role in the pipeline in the future. Deep compositing will be significant, as well as participating media. Currently when you see a frame of a game, you are seeing a one-shot final render — everything has been set up and bang! There you go. In film, you don't have to do that. Everything is done in passes and layers. If you want to sweeten the specularity of a particular component, you have that control. If you need to nudge something or brighten it up, you can do that. I'd like to see those facilities in real time pipelines.

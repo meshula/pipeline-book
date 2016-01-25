@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](chapters/introduction.md)
-* Pipeline Taxonomy
+* [Pipeline Taxonomy](chapters/pipeline_taxonomy.md)
 
